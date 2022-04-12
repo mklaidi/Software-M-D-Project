@@ -1,0 +1,9 @@
+Requirements
+Database with all accounts, students, teachers, etc.
+Database of all the materials, contests and other information.
+Clear and well difined view and usage of the application.
+Partnership with different schools (optional, since the application is mainly based on independent student work).
+Ability to keep track of students points earned.
+ -> Well defined ranking / leaderboard, automatically updated in tot time.
+ -> Update of User privileges based on the points earned.
+Creation of classes from teachers.
