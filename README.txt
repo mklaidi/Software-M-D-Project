@@ -1,5 +1,7 @@
 Student App
-The aim of this student app is to unify students all over the country.
+
+
+The aim of this student app is to unify students all over the country, and world.Communication and rivalry is the key to development and success, so unifying all students in a common platform, helping them with group work, studying and exchanging materials, would help them reaching high levels.
 Materials, notes, exercises, contests and groups can be created and added in this mobile application.
 Accounts (of different type and advantages) can upload materials on the database of the app, filtred by the type of it.
 Contests can be created and students can take part in them, based on the field and requirements.
