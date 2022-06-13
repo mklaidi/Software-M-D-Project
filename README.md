@@ -1,4 +1,4 @@
-# Student App
+# UStudy
 
 --> Description
 ---------------
