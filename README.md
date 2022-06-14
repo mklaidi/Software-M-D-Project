@@ -31,6 +31,23 @@ Contests can be created and students can take part in them, based on the field a
 - Ability to facilitate the management of classes (Teacher User)
 - Real-time management reporting and trending capabilities that can be exported and graphed (Adnim)
 - Being clear and understandable as a mobile application
+- The system is implemented as a mobile application used by three functional user modules:  students, teachers, and administrators.
+- The administrator account must have all the privileges of the system. He will be able to generate real-time details on the users and statistics provided by the data available on the system.
+- The system must provide the administrator the application users, with the right to register new ones.
+- The system must provide the user with the option to write and upload materials on the application.
+- The system must provide the user the option to enter his personal details including any information.
+- The user can register into the system with emails or their phone number.
+- The administrator, the teacher, and the student can log in to the system with a username and a password.
+- The administrator can register new teachers by providing important information such as Name Surname, Date of Birth, etc.
+- The administrator has the right to delete the teacher/student account.
+- The administrator can view private messages and feedbacks sent from users.
+- The administrator can view the list of materials.
+- The administrator can generate statistics on the number of user registrations on a weekly/monthly/yearly basis.
+- The administrator reports will have the option to export the data via an Excel file into the personal computer.
+- The teacher can view his/her own profile and make necessary edits and/or updates on the personal information he/she provides for the system.
+- The teacher can see materials and their information.
+- The teacher can see student reviews for a material.
+- The teacher/student can deactivate his/her account.
 
 --> Non-Functional Requirements
 --------------------------------
